@@ -6,6 +6,6 @@ based on top of the incredible [Richie](https://github.com/openfun/richie)
 
 ## License
 
-that has the following MIT copyright:
+`Riche` has the following [MIT copyright](https://github.com/openfun/richie/blob/master/LICENSE):
 
 Copyright (c) 2018-present GIP FUN MOOC.
